@@ -29,4 +29,5 @@ ScratchDay 2019 in Aich に関する情報など
 + 稲見　雅一さん
 + はっぴい　タケさん
 + 五島　奈緒さん
-+ 
++narita keiko sa
+
